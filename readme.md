@@ -17,8 +17,8 @@ Instructions of how to install it: https://dotnet.microsoft.com/en-us/download/d
 ### Run the application 
 From the project root folder navingate to .\CompareVersions\VersionManager and run the following commands:
 
-dotnet restore
-dotnet run
+	dotnet restore
+	dotnet run
 
 
 ### Tests
