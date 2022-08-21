@@ -14,16 +14,19 @@ Instructions of how to install it: https://dotnet.microsoft.com/en-us/download/d
 
 ### Libraries
 For the Percentile and Median calculation, I'm using the following library:
-	Mathnet.Numberics version 5.0.0
-	https://github.com/mathnet/mathnet-numerics
+-	Mathnet.Numberics version 5.0.0
+-	https://github.com/mathnet/mathnet-numerics
 
 ### Run the application 
 From the project root folder navingate to .\Math\Math.Api
 run the following commands:
+
 	dotnet restore
 	dotnet run
+	
 By default the application will run on the port 3000
 eg:
+
 	http://localhost:3000/swagger/index.html
 
 ### Tests
@@ -55,16 +58,18 @@ Instructions of how to install it: https://dotnet.microsoft.com/en-us/download/d
 
 ### Libraries
 For the Percentile and Median calculation, I'm using the following library:
-	Mathnet.Numberics version 5.0.0
-	https://github.com/mathnet/mathnet-numerics
+-	Mathnet.Numberics version 5.0.0
+-	https://github.com/mathnet/mathnet-numerics
 
 ### Run the application 
 From the project root folder navingate to .\Math\Math.Api
 run the following commands:
+
 	dotnet restore
 	dotnet run
 By default the application will run on the port 3000
 eg:
+
 	http://localhost:3000/swagger/index.html
 
 ### Tests
