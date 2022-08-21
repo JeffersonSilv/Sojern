@@ -35,6 +35,7 @@ For unit tests I'm using Xunit version 2.4.1
 ## Running the tests 
 From the project root folder navingate to .\Math\Math.Tests
 run the following commands:
+
 	dotnet test
 
 
@@ -78,4 +79,5 @@ For unit tests I'm using Xunit version 2.4.1
 ## Running the tests 
 From the project root folder navingate to .\Math\Math.Tests
 run the following commands:
+
 	dotnet test
